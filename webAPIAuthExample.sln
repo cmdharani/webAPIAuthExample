@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAPIAuthExample", "webAPIAuthExample.csproj", "{E46A0327-AC45-4FC7-9F48-83E0E06AD168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIAuthPratice", "..\WebAPIAuthPratice\WebAPIAuthPratice.csproj", "{89091A36-1A46-4C42-BD87-242C4F726E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46A0327-AC45-4FC7-9F48-83E0E06AD168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46A0327-AC45-4FC7-9F48-83E0E06AD168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46A0327-AC45-4FC7-9F48-83E0E06AD168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46A0327-AC45-4FC7-9F48-83E0E06AD168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89091A36-1A46-4C42-BD87-242C4F726E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89091A36-1A46-4C42-BD87-242C4F726E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89091A36-1A46-4C42-BD87-242C4F726E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89091A36-1A46-4C42-BD87-242C4F726E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6791EA7-7E18-4069-9676-0FA12A86BF4A}
+	EndGlobalSection
+EndGlobal
